@@ -18,7 +18,7 @@ Term: Spring 2023
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-+ Yuanxi Li
++ Yuanxi Li is responsible for tunning the hyperparameters for InceptionV3 models to improve model accuracy and evaluating model performance on the test labels.
 + Namira Suniaprita developed and trained two models, Model 1 and Model 2, using the InceptionV3 architecture, and evaluated their performance on the test labels.
 + Chenbohan Zhang developed the model2 based on Jingshu's model 1 using method from Inoue et al.(2017), and is also responsible for presentation.
 + Jingshu Zhang is responsible for pre training ResNet50 for image classification.
