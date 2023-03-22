@@ -13,7 +13,7 @@ Term: Spring 2023
 	+ Zhang, Jingshu jz3552@columbia.edu
 	+ Zhang, Zerui zz2999@columbia.edu
 
-+ Project summary: The project involved developing two image classification models in the presence of noisy image labels. The team's efforts resulted in two models: Model I, where they evaluated multiple CNN models, including ResNet50 and Inception V3, and eventually chose Inception V3 due to its computational efficiency and accuracy. For Model II, they implemented weakly supervised learning using Inception V3 to correct labels and improve precision using accurate labels, given Inception V3's satisfactory performance and optimized training time and memory. Overall, the team observed a significant enhancement in accuracy.
++ Project summary: The project involved developing two image classification models in the presence of noisy image labels. The team's efforts resulted in two models: Model I, where we evaluated multiple CNN models, including ResNet50 and Inception V3, and eventually chose Inception V3 due to its computational efficiency and accuracy. For Model II, we implemented weakly supervised learning using Inception V3 to correct labels and improve precision using accurate labels, given Inception V3's satisfactory performance and optimized training time and memory. Overall, the team observed a significant enhancement in accuracy.
 
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members approve our work presented in this GitHub repository including this contributions statement. 
