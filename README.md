@@ -15,6 +15,14 @@ Term: Spring 2023
 
 + Project summary: The project involved developing two image classification models in the presence of noisy image labels. The team's efforts resulted in two models: Model I, where we evaluated multiple CNN models, including ResNet50 and Inception V3, and eventually chose Inception V3 due to its computational efficiency and accuracy with the accuracy of 23%. For Model II, we implemented weakly supervised learning using Inception V3 to correct labels and improve precision using accurate labels, given Inception V3's satisfactory performance and optimized training time and memory. Overall, the team observed a significant enhancement in accuracy after correcting the label and achieved the accuracy of 78.28%
 
+## Validation Set Results
+
+![Validation Set Results](./figs/Validation%20Set%20Results.png)
+
+## Final Model
+
+![Final Model](./figs/final_model.png)
+
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members approve our work presented in this GitHub repository including this contributions statement. 
 
